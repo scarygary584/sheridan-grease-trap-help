@@ -1,5 +1,5 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://sheridangreasetraphelp.com/sitemap.xml
+Sitemap: https://www.sheridangreasetraphelp.com/sitemap.xml
 
